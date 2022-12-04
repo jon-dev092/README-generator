@@ -13,7 +13,7 @@
   - then simply run node on the index.js file to proceed and generate your new markdown file!
 
   ## Usage
-  - ![Video](https://drive.google.com/file/d/Dkf19Pp1gi5bEw4NhSKJvMolJgr5LZ/view?usp=share_link)
-  
+  [Readme-generator video](https://user-images.githubusercontent.com/112823750/205470505-568f096a-5377-426c-894b-c829f7ed995e.webm)
+
   ## Links
   [Github Repo](https://github.com/jon-dev092/README-generator)
