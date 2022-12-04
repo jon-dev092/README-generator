@@ -14,6 +14,6 @@
 
   ## Usage
   - ![Video](https://drive.google.com/file/d/Dkf19Pp1gi5bEw4NhSKJvMolJgr5LZ/view?usp=share_link)
-
-  ## Links
   
+  ## Links
+  [Github Repo](https://github.com/jon-dev092/README-generator)
