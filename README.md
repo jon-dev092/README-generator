@@ -13,8 +13,7 @@
   - then simply run node on the index.js file to proceed and generate your new markdown file!
 
   ## Usage
-  
-
+  - ![Video](https://drive.google.com/file/d/Dkf19Pp1gi5bEw4NhSKJvMolJgr5LZ/view?usp=share_link)
 
   ## Links
   
