@@ -12,7 +12,7 @@
   
 
   ## Description: 
-  -  generate a markdown template for your readme on your terminal using inquirer
+  -  Generates a markdown file using inquirer on your terminal
 
 
   ## Installation:

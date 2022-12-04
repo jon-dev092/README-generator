@@ -1,8 +1,8 @@
+// imported files from index.js
 const indexJs = require('../index')
 
 
-// TODO: Create a function that returns a license badge based on which license is passed in
-// If there is no license, return an empty string
+// returns a license badge based on user input 
 function renderLicenseBadge(license) {
   var licecenseBadge = '';
   if (licecenseBadge === 'none') {
@@ -16,8 +16,7 @@ function renderLicenseBadge(license) {
   } return licecenseBadge;
 }
 
-// TODO: Create a function that returns the license link
-// If there is no license, return an empty string
+// returns the license link based on user input
 function renderLicenseLink(license) {
   var licenseLink = '';
   if (license === 'none') {
@@ -31,8 +30,7 @@ function renderLicenseLink(license) {
   } return licenseLink;
 }
 
-// TODO: Create a function that returns the license section of README
-// If there is no license, return an empty string
+// returns the user's chosen license 
 function renderLicenseSection(license) {
   var licenseSection = '';
   if (license === 'none') {
@@ -42,7 +40,7 @@ function renderLicenseSection(license) {
   } return licenseSection;
 }
 
-// TODO: Create a function to generate markdown for README
+// .md template used to generate the .md file with imported data based on the user's choices. 
 function generateMarkdown(data) {
   return `
   
@@ -89,4 +87,5 @@ function generateMarkdown(data) {
 `;
 }
 
+// exports data 
 module.exports = generateMarkdown;
